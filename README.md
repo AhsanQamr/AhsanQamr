@@ -7,22 +7,22 @@
 🧠  Exciting Journey into Neural Networks <br>
 
 ## Skills
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
-- ![Go](https://img.icons8.com/color/48/000000/golang.png) Go
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![React](https://img.icons8.com/plasticine/48/000000/react.png) React
-- ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
-- ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![Dart](https://img.icons8.com/color/48/000000/dart.png)
+![Go](https://img.icons8.com/color/48/000000/golang.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
+![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
 
 
