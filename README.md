@@ -7,7 +7,7 @@
 🧠  Exciting Journey into Neural Networks <br>
 
 ## Skills
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![Dart](https://img.icons8.com/color/48/000000/dart.png)
@@ -23,7 +23,21 @@
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
 ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-
+![Sass](https://img.icons8.com/color/48/000000/sass.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)
+![Redux](https://img.icons8.com/color/48/000000/redux.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
+![Flask](https://img.icons8.com/color/48/000000/flask.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 
 
 <!--
