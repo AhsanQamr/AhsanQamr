@@ -7,9 +7,37 @@
 🧠  Exciting Journey into Neural Networks <br>
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+- C: :regional_indicator_c:
+- C++: :regional_indicator_c_plus_plus:
+- C#: :regional_indicator_c_sharp:
+- Dart: :dart:
+- Java: :coffee:
+- JavaScript: :javascript:
+- Kotlin: :kotlin:
+- PHP: :php:
+- Python: :snake:
+- TypeScript: :typescript:
+- HTML5: :html5:
+- React: :react:
+- Next.js: :nextdotjs:
+- jQuery: :jquery:
+- CSS3: :css3:
+- Sass: :sass:
+- Tailwind CSS: :tailwindcss:
+- Bootstrap: :bootstrap:
+- Material UI: :materialui:
+- Redux: :redux:
+- Express: :express:
+- Node.js: :nodejs:
+- Oracle: :oracle:
+- MongoDB: :mongodb:
+- MySQL: :mysql:
+- PostgreSQL: :postgresql:
+- Firebase: :firebase:
+- Flask: :flask:
+- Flutter: :flutter:
+
+
 
 <!--
 **AhsanQamr/AhsanQamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
