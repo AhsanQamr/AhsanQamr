@@ -7,35 +7,22 @@
 🧠  Exciting Journey into Neural Networks <br>
 
 ## Skills
-- C: :regional_indicator_c:
-- C++: :regional_indicator_c_plus_plus:
-- C#: :regional_indicator_c_sharp:
-- Dart: :dart:
-- Java: :coffee:
-- JavaScript: :javascript:
-- Kotlin: :kotlin:
-- PHP: :php:
-- Python: :snake:
-- TypeScript: :typescript:
-- HTML5: :html5:
-- React: :react:
-- Next.js: :nextdotjs:
-- jQuery: :jquery:
-- CSS3: :css3:
-- Sass: :sass:
-- Tailwind CSS: :tailwindcss:
-- Bootstrap: :bootstrap:
-- Material UI: :materialui:
-- Redux: :redux:
-- Express: :express:
-- Node.js: :nodejs:
-- Oracle: :oracle:
-- MongoDB: :mongodb:
-- MySQL: :mysql:
-- PostgreSQL: :postgresql:
-- Firebase: :firebase:
-- Flask: :flask:
-- Flutter: :flutter:
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
+- ![Go](https://img.icons8.com/color/48/000000/golang.png) Go
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![React](https://img.icons8.com/plasticine/48/000000/react.png) React
+- ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
+- ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
 
 
 
