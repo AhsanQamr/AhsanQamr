@@ -1,10 +1,10 @@
 ### Hi , My name is Ahsan Qamar 👋
 ## Software Developer
 
-🌍  I'm based in Islamabad, Pakistan
-✉️  You can contact me at qaahsan92@gmail.com
-🌱  I’m currently learning Software Development
-🧠  Exciting Journey into Neural Networks
+🌍  I'm based in Islamabad, Pakistan <br>
+✉️  You can contact me at qaahsan92@gmail.com <br>
+🌱  I’m currently learning Software Development <br>
+🧠  Exciting Journey into Neural Networks <br>
 
 <!--
 **AhsanQamr/AhsanQamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
