@@ -1,4 +1,6 @@
 ### Hi , My name is Ahsan Qamar 👋
+---
+
 ## Software Developer
 
 🌍  I'm based in Islamabad, Pakistan <br>
@@ -12,7 +14,6 @@
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36">](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36">](https://dart.dev/)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36">](https://golang.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36">](https://www.java.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36">](https://kotlinlang.org/)
@@ -42,34 +43,12 @@
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36">](https://supabase.io/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36">](https://flutter.dev/)
 
+---
+## Socials
 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" width="36" height="36">](https://github.com/AhsanQamr)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-colored.svg" width="36" height="36">](https://www.linkedin.com/in/ahsan-qamar-ba38ab21b/)
 
-![Dart](https://img.icons8.com/color/48/000000/dart.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-![PHP](https://img.icons8.com/color/48/000000/php.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![React](https://img.icons8.com/plasticine/48/000000/react.png)
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
-![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Sass](https://img.icons8.com/color/48/000000/sass.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![Express](https://img.icons8.com/color/48/000000/express.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
-![Flask](https://img.icons8.com/color/48/000000/flask.png)
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 
 
 <!--
