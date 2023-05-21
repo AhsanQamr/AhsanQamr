@@ -7,9 +7,11 @@
 🧠  Exciting Journey into Neural Networks <br>
 
 ## Skills
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+
+[![C](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c++-colored.svg)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![Flutter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg)](https://flutter.dev/)
+
 ![Dart](https://img.icons8.com/color/48/000000/dart.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
