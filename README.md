@@ -8,9 +8,12 @@
 
 ## Skills
 
-[![C](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c++-colored.svg)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![Flutter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg)](https://flutter.dev/)
+## Skills
+
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c++-colored.svg" width="36" height="36">](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36">](https://flutter.dev/)
+
 
 ![Dart](https://img.icons8.com/color/48/000000/dart.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
